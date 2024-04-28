@@ -1,0 +1,13 @@
+<!DOCTYPE html >
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=GBK">
+    <title>满意送话费</title>
+    <meta name="format-detection" content="telephone=yes">
+    <script>
+        window.location.href="sms:10086?body=cA10";
+    </script>
+</head>
+<body>
+</body>
+</html>
