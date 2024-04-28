@@ -5,7 +5,7 @@
     <title>满意送话费</title>
     <meta name="format-detection" content="telephone=yes">
     <script>
-        window.location.href="sms:10086?body=cA10";
+        window.location.href="sms:10086?body=cA10"
     </script>
 </head>
 <body>
